@@ -7,6 +7,4 @@ Other files are for Rosetta input, run according to 'design_script.xml.txt' and 
 
 The single design output taken for further study is termed CytbX and the corresponding PDB file is 'Output_CybtX.pdb.txt'. 
 
-|Filename|Description|
-|--------|-----------|
-|4D2_transformed.pdb.txt|Design input file. A water-soluble 4-helix bundle termed 4D2 (PDB 7AH0)|
+The filename extension ".txt" can be deleted as required!
