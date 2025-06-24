@@ -6,3 +6,7 @@ File '4D2_transformed.pdb.txt' is the input PDB file. This is a water-soluble de
 Other files are for Rosetta input, run according to 'design_script.xml.txt' and with options specified in 'flags.txt'. The specific positions to be mutated and the allowed amino acid alphabet at each position is dictated by the resfile 'resfile.txt'.
 
 The single design output taken for further study is termed CytbX and the corresponding PDB file is 'Output_CybtX.pdb.txt'. 
+
+|Filename|Description|
+|--------|-----------|
+|4D2_transformed.pdb.txt|Design input file. A water-soluble 4-helix bundle termed 4D2 (PDB 7AH0)|
