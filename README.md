@@ -1,5 +1,5 @@
 # CytbX_paper
-This repository contains data and code from Hardy et al, PNAS (2023) 120(16):e2300137120
+This repository contains data and code from Hardy et al (2023) <i>Cellular production of a de novo membrane cytochrome</i> PNAS 120(16):e2300137120
 
 File '4D2_transformed.pdb.txt' is the input PDB file. This is a water-soluble de novo protein that forms a 4-helix diheme bundle, PDB ID 7AH0. See Hutchins et al, PNAS (2023) 120: e2306046120. https://doi.org/10.1073/pnas.2306046120
 
